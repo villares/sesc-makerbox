@@ -631,7 +631,7 @@ to attach them to the start of each source file to most effectively
 state the exclusion of warranty; and each file should have at least
 the "copyright" line and a pointer to where the full notice is found.
 
-    sesc-makerbox - scripts to draw lasercut wooden boxes
+    sesc-makerbox - scripts to draw parts for lasercut boxes
     Copyright (C) 2022 Alexandre B A Villares
 
     This program is free software: you can redistribute it and/or modify
